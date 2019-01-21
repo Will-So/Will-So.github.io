@@ -19,3 +19,5 @@ fields:
   label: Date Posted
   config:
     required: true
+pages:
+- _posts/forestry-test.md

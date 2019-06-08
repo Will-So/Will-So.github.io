@@ -1,7 +1,6 @@
 ---
 label: Technical Post
 hide_body: true
-is_partial: false
 fields:
 - type: text
 - type: textarea
@@ -20,5 +19,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/2019-01-21-forestry-test.md
 - _posts/second_test.md

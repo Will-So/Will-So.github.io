@@ -18,5 +18,3 @@ fields:
   label: Date Posted
   config:
     required: true
-pages:
-- _posts/second_test.md

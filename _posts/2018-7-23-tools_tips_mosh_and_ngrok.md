@@ -24,8 +24,6 @@ Thanks to `ngrok` and `mosh` I can now work on the terminal and `localhost` on r
 
 So with all this, working on a powerful remote workstation is very nearly as convenient as working on my 12 inch, 2 pound laptop. 
 
-## Footnotes
-
 
 [^1]: Before I had to ssh into my cloud vps session and then type in another ssh command from there to get into my remote workscreen. Once I was there, typing on the terminal would respond rather slowly as my typing always had to make a round trip before showing up on my screen.
 

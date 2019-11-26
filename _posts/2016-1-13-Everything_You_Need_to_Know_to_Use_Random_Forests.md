@@ -95,9 +95,6 @@ APA
 3. http://scikit-learn.org/stable/modules/ensemble.html
 4. [Random Forests by Leo Breiman](http://download.springer.com/static/pdf/639/art%253A10.1023%252FA%253A1010933404324.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1023%2FA%3A1010933404324&token2=exp=1447688130~acl=%2Fstatic%2Fpdf%2F639%2Fart%25253A10.1023%25252FA%25253A1010933404324.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1023%252FA%253A1010933404324*~hmac=3b7a5a59b9ee6c2c4c500ef943cd2e0725e74621ba10977e4b51c8989b1819c7)
 
-
-## Footnotes
-
 [^1]: This means that the sample size will be the same as the training set size but the composition of the sample will be different because it is being sampled with replacement. 
 
 [^2]: This works by looking at the errors of the trees where the relevant observation $$(X_i, y_i)$$ did not occur. 

@@ -1,0 +1,20 @@
+---
+label: Technical Post
+hide_body: true
+fields:
+- type: text
+- type: textarea
+  name: body
+  label: Body
+  description: Write the main bit of the text here
+  config:
+    required: true
+  hidden: false
+- type: file
+  name: upload_image
+  label: Upload Image
+- type: datetime
+  name: date_posted
+  label: Date Posted
+  config:
+    required: true
